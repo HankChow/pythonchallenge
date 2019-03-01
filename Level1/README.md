@@ -30,9 +30,9 @@ lambda x: chr(ord(x) + 2)
 
 最终还是要对 url 中的 “map” 做一次同样的移位，得到 “ocr”。
 
-跳转 [www.pythonchallenge.com/pc/def/ocr.html](www.pythonchallenge.com/pc/def/ocr.html) 进入下一关。
+跳转 [http://www.pythonchallenge.com/pc/def/ocr.html](http://www.pythonchallenge.com/pc/def/ocr.html) 进入下一关。
 
 
 ### 下一关
 
-[www.pythonchallenge.com/pc/def/ocr.html](www.pythonchallenge.com/pc/def/ocr.html)
+[http://www.pythonchallenge.com/pc/def/ocr.html](http://www.pythonchallenge.com/pc/def/ocr.html)
