@@ -19,7 +19,7 @@
 跳转 [http://www.pythonchallenge.com/pc/def/peak.html](http://www.pythonchallenge.com/pc/def/peak.html) 进入下一关。
 
 
-P.S. 我是用 while 不断请求页面，用页面内容最后一个单词来充当 nothing 参数的。后来发现这一关居然还有防呆机制。在用某个数字作为 nothing 参数之后，访问页面会得到一句话：
+**P.S.** 我是用 while 不断请求页面，用页面内容最后一个单词来充当 nothing 参数的。后来发现这一关居然还有防呆机制。在用某个数字作为 nothing 参数之后，访问页面会得到一句话：
 
 > Yes. Divide by two and keep going.
 
