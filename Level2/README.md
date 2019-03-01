@@ -28,9 +28,9 @@
 equality
 ```
 
-跳转 [www.pythonchallenge.com/pc/def/equality.html](www.pythonchallenge.com/pc/def/equality.html) 进入下一关。
+跳转 [http://www.pythonchallenge.com/pc/def/equality.html](http://www.pythonchallenge.com/pc/def/equality.html) 进入下一关。
 
 
 ### 下一关
 
-[www.pythonchallenge.com/pc/def/equality.html](www.pythonchallenge.com/pc/def/equality.html)
+[http://www.pythonchallenge.com/pc/def/equality.html](http://www.pythonchallenge.com/pc/def/equality.html)
