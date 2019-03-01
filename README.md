@@ -7,3 +7,4 @@
 * [Level 0](https://github.com/HankChow/pythonchallenge/tree/master/Level0)
 * [Level 1](https://github.com/HankChow/pythonchallenge/tree/master/Level1)
 * [Level 2](https://github.com/HankChow/pythonchallenge/tree/master/Level2)
+* [Level 3](https://github.com/HankChow/pythonchallenge/tree/master/Level3)
