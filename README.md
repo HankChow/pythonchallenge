@@ -5,3 +5,4 @@
 ## 关卡索引
 
 * [Level 0](https://github.com/HankChow/pythonchallenge/tree/master/Level0)
+* [Level 1](https://github.com/HankChow/pythonchallenge/tree/master/Level1)
