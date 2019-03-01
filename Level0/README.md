@@ -20,8 +20,8 @@
 274877906944
 ```
 
-跳转 [www.pythonchallenge.com/pc/def/274877906944.html](www.pythonchallenge.com/pc/def/274877906944.html) 进入下一关。
+跳转 [http://www.pythonchallenge.com/pc/def/274877906944.html](http://www.pythonchallenge.com/pc/def/274877906944.html) 进入下一关。
 
 ### 下一关
 
-[www.pythonchallenge.com/pc/def/274877906944.html](www.pythonchallenge.com/pc/def/274877906944.html)
+[http://www.pythonchallenge.com/pc/def/274877906944.html](http://www.pythonchallenge.com/pc/def/274877906944.html)
