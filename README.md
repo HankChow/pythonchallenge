@@ -2,10 +2,12 @@
 
 [pythonchallenge](http://www.pythonchallenge.com/) 是一个借助 Python 来通关的网站，在这里记录一下我每一关的通关过程。
 
-目录按照关卡序号区分，每个关卡的目录里面有通过用到的 Python 代码以及相关的文件。Python 代码使用 Python 3.6 编写，可能会用到一些第三方库。
+目录按照关卡序号区分，每个关卡的目录里面有通过用到的 Python 代码以及相关的文件，其中 `<关卡序号>.py` 为该关卡的 Python 代码，`README.md` 为该关卡的通关过程，其余是需要用到的相关文件。
+
+Python 代码使用 Python 3.6 编写，可能会用到一些第三方库。
+
 
 ## 关卡索引
-
 
 * [Level 0](https://github.com/HankChow/pythonchallenge/tree/master/Level0)
 * [Level 1](https://github.com/HankChow/pythonchallenge/tree/master/Level1)
