@@ -16,9 +16,9 @@
 
 仔细看会发现两个字符串是 BZh 开头的，到这里一般可以想到 bzip2 压缩。将两个字符串用 bz2 包解压缩，可以分别得到 huge 和 file。
 
-P.S. 后来发现，其实题图的蜜蜂、标题的 working hard 都是 bees，也就暗示着 bz，但当时并没有发现……
-
 跳转 [http://www.pythonchallenge.com/pc/return/good.html](http://www.pythonchallenge.com/pc/return/good.html) ，用户名密码分别输入 huge 和 file 进入下一关。
+
+P.S. 后来发现，其实题图的蜜蜂、标题的 working hard 都是 bees，也就暗示着 bz，但当时并没有发现……
 
 
 ### 下一关
