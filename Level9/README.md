@@ -12,7 +12,7 @@
 
 把 first 和 second 两个列表的一堆点连起来，能看见一头牛。那就是 bull 了。
 
-跳转 [http://www.pythonchallenge.com/pc/return/bull.html](http://www.pythonchallenge.com/pc/return/bull.html) 。
+跳转 [http://www.pythonchallenge.com/pc/return/bull.html](http://www.pythonchallenge.com/pc/return/bull.html) 进入下一关 。
 
 P.S. 如果猜 cow 的话，会提示 “hmm. it's a male. ”，可以说是很贴心了……
 
