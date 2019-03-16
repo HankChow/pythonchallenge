@@ -17,3 +17,4 @@ Python 代码使用 Python 3.6 编写，可能会用到一些第三方库。
 * [Level 5](https://github.com/HankChow/pythonchallenge/tree/master/Level5)
 * [Level 6](https://github.com/HankChow/pythonchallenge/tree/master/Level6)
 * [Level 7](https://github.com/HankChow/pythonchallenge/tree/master/Level7)
+* [Level 8](https://github.com/HankChow/pythonchallenge/tree/master/Level8)
