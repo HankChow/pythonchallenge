@@ -3,7 +3,7 @@
 
 ### 本关 url
 
-[http://www.pythonchallenge.com/pc/return/bull.ihtml](http://www.pythonchallenge.com/pc/return/bull.html)
+[http://www.pythonchallenge.com/pc/return/bull.html](http://www.pythonchallenge.com/pc/return/bull.html)
 
 
 ### content
