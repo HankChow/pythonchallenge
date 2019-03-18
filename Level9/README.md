@@ -3,7 +3,7 @@
 
 ### 本关 url
 
-[http://www.pythonchallenge.com/pc/return/good.ihtml](http://www.pythonchallenge.com/pc/return/good.html)
+[http://www.pythonchallenge.com/pc/return/good.html](http://www.pythonchallenge.com/pc/return/good.html)
 
 
 ### content
