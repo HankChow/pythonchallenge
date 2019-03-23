@@ -21,3 +21,4 @@ Python 代码使用 Python 3.6 编写，可能会用到一些第三方库。
 * [Level 9 - connect the dots](https://github.com/HankChow/pythonchallenge/tree/master/Level9)
 * [Level 10 - what are you looking at?](https://github.com/HankChow/pythonchallenge/tree/master/Level10)
 * [Level 11 - odd even](https://github.com/HankChow/pythonchallenge/tree/master/Level11)
+* [Level 12 - dealing evil](https://github.com/HankChow/pythonchallenge/tree/master/Level12)
